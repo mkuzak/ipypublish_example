@@ -3,7 +3,7 @@ This directory contains:
 - A jupyter notebook called report_example.ipynb
 - A latex bibliography file (bibtex) report_example.bib that is used in the jupyter notebook for all our references
 - A logo (NEGI2018.png) 
-- A plot savec as a png file and included in the jupyter notebook using latex includegraphics (in a markdown cell)
+- A plot saved as a png file and included in the jupyter notebook using latex includegraphics (in a markdown cell)
 
 The sub-directory `converted` contains the result of nbpublish command (the one given in the last cell 
 of the jupyter notebook report_example.ipynb).
